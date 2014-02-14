@@ -3,6 +3,8 @@ demo-repository
 added
 changes to push a branch in remote repo
 updated by Sunetra
-
-conflict1
+<<<<<<< HEAD
 conflict2
+=======
+conflict1
+>>>>>>> 17fc9eda2ee6b6483cc30cde44cd41e5f734c5ec
